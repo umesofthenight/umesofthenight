@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2e2e,50:FFFFFF,100:2e2e2e&height=180&section=header&text=[Hysteria]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=[Developer%20and%20Owner%20@Hysteria]&descSize=16&descAlignY=58" width="100%" alt="Colorful profile banner" />
 
 <a href="https://github.com/umesofthenight">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2e2e2e&center=true&vCenter=true&width=600&lines=Growing+new+Beyonders...;Exploring+ancient+ruins...;Expanding+the+influence+of+Organizations..." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Growing+new+Beyonders...;Exploring+ancient+ruins...;Expanding+the+influence+of+Organizations..." alt="Animated introduction" />
 </a>
 
 <br/>
