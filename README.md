@@ -19,7 +19,7 @@
 
 ## <img src="assets/icons/dash1.png" width="25"><img src="assets/icons/dash2.png" width="25"><img src="assets/icons/dash3.png" width="25"><img src="assets/icons/dash4.png" width="25">
 
-> ## Welcome to Hysteria!<br>
+> ### Welcome to Hysteria!<br>
 *Where there is no chosen savior... only those willing to do what's necessary.*
 
 <img src="assets/icons/HangingStars1.png" width="20" alt=""> LinkedIn: [Yasin Kanlioglu](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379)<br>
