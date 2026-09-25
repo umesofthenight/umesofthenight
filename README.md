@@ -10,9 +10,6 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/UmezawaShino)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasin-kanlioglu-7a5569379/)
-
 </div>
 
 ---
