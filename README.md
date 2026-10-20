@@ -21,7 +21,7 @@
 
 <img src="assets/icons/HangingStars1.png" width="20" alt=""> Hysteria: [[Hysteria](https://discord.com/invite/path-to-hysteria)]<br>
 <img src="assets/icons/HangingStars2.png" width="20" alt=""> Website: [[Hysteria](https://umesofthenight.github.io/Hysteria/)]<br>
-<img src="assets/icons/HangingStars3.png" width="20" alt=""> Lord of the Mysteries Wiki: [[Wiki](https://lordofthemysteries.fandom.com/wiki/Lord_of_Mysteries_Wiki)]
+<img src="assets/icons/HangingStars3.png" width="20" alt=""> Wiki: [[Wiki](https://lordofthemysteries.fandom.com/wiki/Lord_of_Mysteries_Wiki)]
 
 <div align="center">
 
